@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.svermeulen.extenject": {
-      "version": "file:Zenject.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
-    },
     "com.unity.2d.animation": {
       "version": "7.0.9",
       "depth": 0,
