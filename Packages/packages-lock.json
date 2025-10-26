@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.svermeulen.extenject": {
-      "version": "file:../Assets/Plugins/Zenject.tgz",
+      "version": "file:Zenject.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {}

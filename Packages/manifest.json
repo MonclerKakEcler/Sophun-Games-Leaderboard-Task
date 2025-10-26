@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.svermeulen.extenject": "file:../Assets/Plugins/Zenject.tgz",
+    "com.svermeulen.extenject": "file:Zenject.tgz",
     "com.unity.2d.animation": "7.0.9",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.spriteshape": "7.0.6",
